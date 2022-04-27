@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "ES2022",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "target": "es5",
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true
+  }
+}
