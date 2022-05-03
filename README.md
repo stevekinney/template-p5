@@ -1,6 +1,6 @@
 # p5.js and TypeScript
 
-This is a boilerplate for getting started with [p5.js](https://p5js.org/) and [typescript](https://www.typescriptlang.org/).
+This is a boilerplate for getting started with [p5.js](https://p5js.org/) and [TypeScript](https://www.typescriptlang.org/).
 
 ## Getting Started
 
