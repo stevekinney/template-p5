@@ -1,3 +1,5 @@
-import module from 'p5';
-export = module;
-export as namespace p5;
+declare global {
+  type P5 = import('p5');
+}
+
+export {};

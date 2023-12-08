@@ -1,5 +1,3 @@
-import type P5 from 'p5';
-
 export default function sketch(p5: P5) {
   p5.setup = () => {
     p5.background('white');
