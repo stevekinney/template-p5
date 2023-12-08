@@ -1,5 +1,5 @@
 {
-  "name": "p5-and-typescript",
+  "name": "template-p5",
   "version": "1.0.0",
   "description": "Boilerplate for [p5.js](https://p5js.org/) and [typescript](https://www.typescriptlang.org/).",
   "type": "module",
