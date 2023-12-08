@@ -2,7 +2,12 @@
   <head>
     <title>Sketch</title>
     <meta charset="UTF-8" />
-    <script src="index.ts" defer></script>
+    <script type="module">
+      import P5 from 'p5';
+      import sketch from './src';
+
+      new P5(sketch);
+    </script>
   </head>
   <body></body>
 </html>
